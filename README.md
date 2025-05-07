@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
+NEXT_PUBLIC_RAPID_API_KEY=661f12cd17mshee4a26d49d9e066p1b5afbjsnd0c8a95ef70
 ## Getting Started
 
 First, run the development server:
